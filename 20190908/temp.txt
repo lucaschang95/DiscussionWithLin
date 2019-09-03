@@ -4,7 +4,6 @@ IBM: Geoffrey W. Burr
 3. Neuromorphic computing using non-volatile memory
 4. Experimental demonstration and tolerancing of a large-scale neural network (165 000 synapses) using phase-change memory as the synaptic weight element (2015)
 
-Shanhui Fan, Zongfu Yu.
 
 Stanford: Shanhui Fan
 1. Optical image processing using photonic crystal slab
@@ -15,3 +14,23 @@ Stanford: Shanhui Fan
 6. Artificial Neural Networks
 7. Electronically programmable photonic molecule
 8. Training of photonic neural networks through in situ backpropagation and gradient measurement
+
+
+Wisconsin - Madison: Zongfu Yu
+1. Nanophotonic media for artificial neural inference
+2. Optical image processing using photonic crystal slab
+3. Optimization of Nonlinear Nanophotonic Media for Artificial Neural Inference
+4. Imaging-free object recognition enabled by optical coherence
+5. Direct Object Recognition Without Line-of-Sight Using Optical Coherence
+6. Stochastic optimization of nonlinear nanophotonic media for artificial neural inference
+7. Training deep neural networks for the inverse design of nanophotonic structures
+
+
+LIghtelligence Inc.: Yichen Shen
+1. Gated orthogonal recurrent units: On learning to forget
+2. Nanophotonic particle simulation and inverse design using artificial neural networks
+3. Tunable Efficient Unitary Neural Networks (EUNN) and their application to RNN
+
+
+LIghtelligence Inc.: Nicholas C. Harris
+1. Linear programmable nanophotonic processors
