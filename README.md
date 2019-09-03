@@ -1,6 +1,6 @@
 # DiscussionWithLin
 
-** Introduction **
+**Introduction**
 
 - Weekly Discussion with Lin
 ------------------------------
