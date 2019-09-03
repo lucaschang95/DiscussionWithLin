@@ -1,0 +1,17 @@
+IBM: Geoffrey W. Burr
+1. Tutorial: Brain-inspired computing using phase-change memory devices
+2. Equivalent-accuracy accelerated neural-network training using analogue memory
+3. Neuromorphic computing using non-volatile memory
+4. Experimental demonstration and tolerancing of a large-scale neural network (165 000 synapses) using phase-change memory as the synaptic weight element (2015)
+
+Shanhui Fan, Zongfu Yu.
+
+Stanford: Shanhui Fan
+1. Optical image processing using photonic crystal slab
+2. Self-sustaining thermophotonic circuits
+3. Optical computing of spatial differentiation without Fourier optics
+4. Training of photonic neural networks through in situ backpropagation
+5. Wave Physics as an Analog Recurrent Neural Network
+6. Artificial Neural Networks
+7. Electronically programmable photonic molecule
+8. Training of photonic neural networks through in situ backpropagation and gradient measurement
