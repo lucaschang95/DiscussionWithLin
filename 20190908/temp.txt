@@ -6,24 +6,14 @@ IBM: Geoffrey W. Burr
 
 
 Stanford: Shanhui Fan
-1. Optical image processing using photonic crystal slab
-2. Self-sustaining thermophotonic circuits
-3. Optical computing of spatial differentiation without Fourier optics
 4. Training of photonic neural networks through in situ backpropagation
-5. Wave Physics as an Analog Recurrent Neural Network
-6. Artificial Neural Networks
-7. Electronically programmable photonic molecule
 8. Training of photonic neural networks through in situ backpropagation and gradient measurement
 
 
 Wisconsin - Madison: Zongfu Yu
 1. Nanophotonic media for artificial neural inference
-2. Optical image processing using photonic crystal slab
 3. Optimization of Nonlinear Nanophotonic Media for Artificial Neural Inference
-4. Imaging-free object recognition enabled by optical coherence
 5. Direct Object Recognition Without Line-of-Sight Using Optical Coherence
-6. Stochastic optimization of nonlinear nanophotonic media for artificial neural inference
-7. Training deep neural networks for the inverse design of nanophotonic structures
 
 
 LIghtelligence Inc.: Yichen Shen
