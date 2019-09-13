@@ -24,3 +24,11 @@ LIghtelligence Inc.: Yichen Shen
 
 LIghtelligence Inc.: Nicholas C. Harris
 1. Linear programmable nanophotonic processors
+
+
+Õÿ’π£∫
+Dirk Englund
+1. Large-Scale Optical Neural Networks Based on Photoelecric Multiplication
+2. Quantum optical neural networks
+3. Trace-free counterfactual communication with a nanophotonic processor
+4. Variational Quantum Unsampling on a Programmable Nanophotonic Processor
