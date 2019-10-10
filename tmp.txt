@@ -1,8 +1,8 @@
 https://www.isca-speech.org/archive/interspeech_2010/i10_1045.html
 https://www.isca-speech.org/archive/interspeech_2014/i14_0338.html
-On the difficulty of training recurrent neural networks	http://proceedings.mlr.press/v28/pascanu13.pdf
-Recurrent neural networks and robust time series prediction	https://ieeexplore.ieee.org/abstract/document/279188
-Speech recognition with deep recurrent neural networks	https://ieeexplore.ieee.org/abstract/document/6638947
+! 	On the difficulty of training recurrent neural networks	http://proceedings.mlr.press/v28/pascanu13.pdf 
+!	Recurrent neural networks and robust time series prediction	https://ieeexplore.ieee.org/abstract/document/279188
+*	Speech recognition with deep recurrent neural networks	https://ieeexplore.ieee.org/abstract/document/6638947
 https://www.isca-speech.org/archive/interspeech_2012/i12_0194.html
 Pixel Recurrent Neural Networks	https://arxiv.org/abs/1601.06759
 Design and analysis of a general recurrent neural network model for time-varying matrix inversion	https://ieeexplore.ieee.org/abstract/document/1528525
