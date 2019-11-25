@@ -5,11 +5,21 @@
 - Weekly Discussion with Lin
 ------------------------------
 
-# 2019. xx. xx, Topic: xxx
+## 2019. xx.xx, Topic: xxx
 
 - point1
 - point2
 - point3
+
+
+
+
+## 2019. 11.22, Topic: simulation
+
+- 调研:硫系玻璃, 气凝胶(0.013)
+- 验证网格大小的影响
+- ref1 - 去掉两变的si
+- 寻找: 各个文献究竟用了什么software
 
 ------------------------------
 
