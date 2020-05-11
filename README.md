@@ -5,11 +5,18 @@
 - Weekly Discussion with Lin
 ------------------------------
 
-## 2019. xx.xx, Topic: xxx
+## 2020. xx.xx, Topic: xxx
 
 - point1
 - point2
 - point3
+
+
+
+## 2020. 05.10, Topic: xxx
+
+- 两篇文章之后的**进度**
+- 查找**前人的结构**
 
 
 
